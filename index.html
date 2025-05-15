@@ -96,6 +96,7 @@
         </button>
       </div>
       <div id="searchResults" class="search-results"></div>
+      <p id="ai-suggestion" style="font-weight: bold;"></p>
     </div>
   </section>
 
@@ -444,6 +445,8 @@
   
   <script src="script.js"></script>
   <script src="ai.js"></script>
-
+  <script>
+  document.getElementById("ai-suggestion").innerText = recommendBasedOnInterest();
+</script>
 </body>
 </html>
