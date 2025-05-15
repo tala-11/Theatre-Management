@@ -1,1 +1,5 @@
-# Theatre_software
+This Theatre Management Software System is a Java-based simulation of essential theater operations, including ticket booking, seating arrangement, scheduling, and amenities management. It was developed with a focus on modular design and system decomposition to reflect real-world organizational workflows. 
+
+Throughout development, AI tools (specifically OpenAI's ChatGPT) were used to assist in planning the software architecture, improving code clarity, debugging, and drafting documentation. These tools served as support for brainstorming and refining system components, while all implementation decisions and logic were written manually. The system operates via a text-based command line interface and showcases skills in object-oriented programming, logic simulation, and clean code practices. 
+
+Future improvements could include GUI integration, persistent data handling, account systems, and management dashboards. This project demonstrates both technical competency and thoughtful integration of AI as a responsible development aid.
